@@ -28,7 +28,11 @@ url: "https://vadmidin.github.io" # the base hostname & protocol for your site, 
 github_username:  Vadmidin
 
 # Build settings
-remote_theme: "mmistakes/so-simple-theme@3.2.0"
+
+# Not using the default minima theme
+# theme: minima
+
+theme: "jekyll-theme-so-simple"
 skin: "/assets/css/skins/dark.css"
 plugins:
   - jekyll-feed
