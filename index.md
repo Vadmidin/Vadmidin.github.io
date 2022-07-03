@@ -6,4 +6,4 @@ collection: projects
 entries_layout: grid
 ---
 
-Sample document listing for the collection `_projects`.
+Here are some of my prototypes.

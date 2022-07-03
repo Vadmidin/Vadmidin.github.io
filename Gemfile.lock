@@ -261,6 +261,12 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   http_parser.rb (~> 0.6.0)
+  jekyll-feed
+  jekyll-gist
+  jekyll-paginate
+  jekyll-redirect-from
+  jekyll-sitemap
+  jemoji
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)

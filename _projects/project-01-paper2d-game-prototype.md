@@ -1,14 +1,15 @@
 ---
 title: "Project #1: Paper2D game prototype"
 image: 
-  path: /images/chocolate-chip-cookies-lg.jpg
-  thumbnail: /images/chocolate-chip-cookies-400x200.jpg
-  caption: "Photo from [Pexels](https://www.pexels.com)"
+  path: /images/project-01-paper2D-game-prototype-2048x512.jpg
+  thumbnail: /images/project-01-paper2D-game-prototype-512x256.jpg
+  caption: # "Photo from [Pexels](https://www.pexels.com)"
 ---
 
 # Some test text
 
 ## Some stuff here
+
 1. this
 2. yup
 3. something else
