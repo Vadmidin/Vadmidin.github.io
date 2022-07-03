@@ -1,5 +1,5 @@
 ---
-title: "Chocolate Chip Cookies"
+title: "Project #1: Paper2D game prototype"
 image: 
   path: /images/chocolate-chip-cookies-lg.jpg
   thumbnail: /images/chocolate-chip-cookies-400x200.jpg
@@ -33,3 +33,58 @@ This recipe makes 4 dozen cookies.
 3. In a large bowl, beat butter with sugar and brown sugar until creamy and light. Add vanilla and eggs, one at a time, and mix until incorporated.
 4. Gradually add dry mixture into the butter-sugar wet blend, mixing with a spatula until combined. Add chocolate chips and nuts until just mixed.
 5. Drop tablespoon-sized clumps onto un-greased cookie sheets. Bake for 8-12 minutes, or until pale brown. Allow to cool on the pan for a minute or three, then transfer cookies to a wire rack to finish cooling.
+
+<!---
+
+---
+layout: post
+title:  "Project #1: Paper2D game prototype"
+date:   2022-07-02 13:42:00 +0300
+categories: projects
+---
+
+-->
+
+# Some test text
+
+## Some stuff here
+1. this
+2. yup
+3. something else
+
+### Overview
+<div class="myvideo">
+   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+       <source src="{{ site.baseurl }}/videos/Vadmidin.github.io_01.mp4" type="video/mp4" />
+   </video>
+</div>
+<br>
+
+### Custom camera behavior
+<div class="myvideo">
+   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+       <source src="{{ site.baseurl }}/videos/Vadmidin.github.io_02.mp4" type="video/mp4" />
+   </video>
+</div>
+<br>
+
+<div class="myvideo">
+   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+       <source src="{{ site.baseurl }}/videos/Vadmidin.github.io_03.mp4" type="video/mp4" />
+   </video>
+</div>
+<br>
+
+<div class="myvideo">
+   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+       <source src="{{ site.baseurl }}/videos/Vadmidin.github.io_04.mp4" type="video/mp4" />
+   </video>
+</div>
+<br>
+
+<div class="myvideo">
+   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+       <source src="{{ site.baseurl }}/videos/Vadmidin.github.io_05.mp4" type="video/mp4" />
+   </video>
+</div>
+<br>

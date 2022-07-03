@@ -88,6 +88,10 @@ collections:
   recipes:
     output: true
     permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
+
 
 # Front Matter Defaults
 defaults:
@@ -107,6 +111,14 @@ defaults:
       layout: post
       comments: true
       share: true
+  # Project defaults
+  - scope:
+      path: "_projects"
+      type: projects
+    values:
+      layout: post
+      comments: false
+      share: false
 
 # Site Author
 author:
