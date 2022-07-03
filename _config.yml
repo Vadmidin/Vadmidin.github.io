@@ -18,14 +18,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Valters Admidins
+locale: "en-us"
+author: Valters Admidins
 email: admidins.valters@gmail.com
+title: Valters Admidins
 description: >- # this means to ignore newlines until "baseurl:"
   Unreal Engine generalist
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/home" # the subpath of your site, e.g. /blog
 url: "https://vadmidin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
-github_username:  Vadmidin
+
+date_format: "%d-%m-%Y"
+
+footer_links:
+  - title: GitHub
+    url: https://github.com/Vadmidin
+    icon: fab fa-github-square
 
 # Build settings
 
@@ -34,8 +41,10 @@ github_username:  Vadmidin
 
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 skin: "/assets/css/skins/dark.css"
+
 plugins:
   - jekyll-feed
+  
 
 # Custom fields
 
