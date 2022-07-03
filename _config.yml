@@ -19,12 +19,12 @@ remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/dark.css"
 
 locale: en-US
-title: "So Simple"
-description: "A simple Jekyll theme for words and pictures."
-baseurl: "/so-simple-theme"
+title: "Valters Admidins"
+description: "Unreal Engine generalist"
+baseurl: ""
 url: "https://vadmidin.github.io"
-logo: "/images/so-simple-site-logo.png"
-date_format: "%B %-d, %Y"
+logo: # "/images/so-simple-site-logo.png"
+date_format: "%d-%m-%Y"
 read_time: true
 words_per_minute: # 200
 mathjax:
@@ -110,32 +110,32 @@ defaults:
 
 # Site Author
 author:
-  name: Michael Rose
-  picture: /images/michael-rose-photo.jpg
+  name: Valters Admidins
+  picture: #/images/michael-rose-photo.jpg
   email:
-  twitter: mmistakes
+  twitter: # mmistakes
   links:
-    - title: Twitter
-      url: https://twitter.com/mmistakes
-      icon: fab fa-twitter-square
-    - title: Instagram
-      url: https://instagram.com/mmistakes
-      icon: fab fa-instagram
+    # - title: Twitter
+    #   url: https://twitter.com/mmistakes
+    #   icon: fab fa-twitter-square
+    # - title: Instagram
+    #   url: https://instagram.com/mmistakes
+    #   icon: fab fa-instagram
     - title: GitHub
-      url: https://github.com/mmistakes
+      url: https://github.com/vadmidin
       icon: fab fa-github-square
 
 # Footer Links
 footer_links:
-  - title: Twitter
-    url: https://twitter.com/mmistakes
-    icon: fab fa-twitter-square
-  - title: Instagram
-    url: https://instagram.com/mmistakes
-    icon: fab fa-instagram
+  # - title: Twitter
+  #   url: https://twitter.com/mmistakes
+  #   icon: fab fa-twitter-square
+  # - title: Instagram
+  #   url: https://instagram.com/mmistakes
+  #   icon: fab fa-instagram
   - title: GitHub
-    url: https://github.com/mmistakes
+    url: https://github.com/vadmidin
     icon: fab fa-github-square
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
+  # - title: Feed
+  #   url: atom.xml
+  #   icon: fas fa-rss-square
