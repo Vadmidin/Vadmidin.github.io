@@ -23,7 +23,7 @@ title: "Valters Admidins"
 description: "Unreal Engine generalist"
 baseurl: ""
 url: "https://vadmidin.github.io"
-logo: # "/images/so-simple-site-logo.png"
+logo: "/images/valters-admidins-site-logo.png" # "/images/so-simple-site-logo.png"
 date_format: "%d-%m-%Y"
 read_time: true
 words_per_minute: # 200
