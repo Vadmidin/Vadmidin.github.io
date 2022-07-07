@@ -45,15 +45,6 @@ We are constantly firing a capsule trace and when something is hit we tell it to
 
 > Sidenote: All the walls, floors, ceilings are made up of instanced blocks and for the fading effect we use a masked Material and apply a custom dithering pattern and animate it via a Timeline and FloatCurve. Since UE Nanite doesn’t support Masked Materials (yet! Maybe in UE 5.1), the blocks' static meshes have 2 versions of them: One with Nanite, one - without. So normally all blocks are Nanite, but when we need them to do the fade out/in effect, we first replace them with the Non-nanite blocks.
 
-### Room creation:
-<div class="myvideo">
-   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
-       <source src="{{ site.baseurl }}/videos/Vadmidin.github.io_05.mp4" type="video/mp4" />
-   </video>
-</div>
-<br>
-Right now there isn't a good way implemented for room creation. Each wall, floor, ceiling piece is just a StaticMeshActor blueprint with many StaticMeshComponents added. For a small demo this is fine, but for a larger scale project a toolset should definitely be created. Perhaps some kind of spline system could work.
-
 ---
 
 ## Character "flipping" effect
