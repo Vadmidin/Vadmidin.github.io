@@ -9,5 +9,4 @@ image:
 # *A workflow for generating models, rigging and creating reusable animation compatible with the UE mannequin skeleton*
 
 ## Overview
-
 For study and learning purposes, I have spent some time with the community version of the [Advanced Locomotion System (ALS)](https://github.com/dyanikoglu/ALS-Community), figuring out a way to create a customised workflow.
