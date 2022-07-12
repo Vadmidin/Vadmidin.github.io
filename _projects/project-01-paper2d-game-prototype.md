@@ -54,7 +54,7 @@ We are constantly firing a capsule trace and when something is hit we tell it to
    </video>
 </div>
 <br>
-Expanding on the vertex shader, allowed me to create this "flipping" effect of the character. Like you would flip a page in a book. Using Custom Primitive Data on the Mesh Component, a Timeline and Float Curve it is possible to animate and set the flipping amount and flipping speed.
+Expanding on the vertex shader, allowed me to create this "flipping" effect of the character. Like you would flip a page in a book. Using Custom Primitive Data on the Mesh Component, a Timeline and Float Curve it is possible to animate and set the flipping amount, rotation direction and speed.
 
 ---
 

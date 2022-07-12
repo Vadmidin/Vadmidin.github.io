@@ -6,4 +6,4 @@ collection: projects
 entries_layout: grid
 ---
 
-Here is a showcase of some of my personal games, tools and scripts.
+Here is a showcase of some of my personal games, tools, workflows and scripts.
