@@ -132,10 +132,13 @@ author:
     # - title: Instagram
     #   url: https://instagram.com/mmistakes
     #   icon: fab fa-instagram
+    - title: Resume
+      url: https://github.com/Vadmidin/Resume/raw/main/Valters%20Admidins%20-%20Resume.pdf
+      icon: far fa-address-card
     - title: GitHub
       url: https://github.com/vadmidin
       icon: fab fa-github-square
-
+    
 # Footer Links
 footer_links:
   # - title: Twitter
@@ -144,9 +147,13 @@ footer_links:
   # - title: Instagram
   #   url: https://instagram.com/mmistakes
   #   icon: fab fa-instagram
+  - title: Resume
+    url: https://github.com/Vadmidin/Resume/raw/main/Valters%20Admidins%20-%20Resume.pdf
+    icon: far fa-address-card
   - title: GitHub
     url: https://github.com/vadmidin
     icon: fab fa-github-square
+  
   # - title: Feed
   #   url: atom.xml
   #   icon: fas fa-rss-square
