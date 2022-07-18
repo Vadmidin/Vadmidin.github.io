@@ -19,11 +19,11 @@ remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/dark.css"
 
 locale: en-US
-title: "Valters Admidins"
+title: "Vadmidin"
 description: "Unreal Engine generalist"
 baseurl: ""
 url: "https://vadmidin.github.io"
-logo: "/images/valters-admidins-site-logo.png" # "/images/so-simple-site-logo.png"
+logo: "/images/vadmidin-site-logo.png" # "/images/so-simple-site-logo.png"
 date_format: "%d-%m-%Y"
 read_time: true
 words_per_minute: # 200
@@ -121,7 +121,7 @@ defaults:
 
 # Site Author
 author:
-  name: Valters Admidins
+  name: Vadmidin
   picture: #/images/michael-rose-photo.jpg
   email:
   twitter: # mmistakes
@@ -133,7 +133,7 @@ author:
     #   url: https://instagram.com/mmistakes
     #   icon: fab fa-instagram
     # - title: Resume
-    #   url: https://github.com/Vadmidin/Resume/raw/main/Valters%20Admidins%20-%20Resume.pdf
+    #   url: https://github.com/Vadmidin/Resume/raw/main/Vadmidin%20-%20Resume.pdf
     #   icon: far fa-address-card
     - title: ISTQB SCR
       url: http://scr.istqb.org/?name=Admidins&number=&orderBy=relevancy&orderDirection=&dateStart=&dateEnd=&expiryStart=&expiryEnd=&certificationBody=&examProvider=&certificationLevel=&country=
@@ -151,7 +151,7 @@ footer_links:
   #   url: https://instagram.com/mmistakes
   #   icon: fab fa-instagram
   # - title: Resume
-  #   url: https://github.com/Vadmidin/Resume/raw/main/Valters%20Admidins%20-%20Resume.pdf
+  #   url: https://github.com/Vadmidin/Resume/raw/main/Vadmidin%20-%20Resume.pdf
   #   icon: far fa-address-card
   - title: ISTQB SCR
     url: http://scr.istqb.org/?name=Admidins&number=&orderBy=relevancy&orderDirection=&dateStart=&dateEnd=&expiryStart=&expiryEnd=&certificationBody=&examProvider=&certificationLevel=&country=
