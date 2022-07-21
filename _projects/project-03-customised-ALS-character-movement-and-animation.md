@@ -41,6 +41,20 @@ Following the C++ implementation of ALS community closely and exporting and crea
 
 I have customised the ALS community project to fit in with a more "True First Person" experience. The character blueprints allow for the characters first person torso and arms to be visible.
 
+<div class="myvideo">
+   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+       <source src="{{ site.baseurl }}/videos/Vadmidin.github.io_13.mp4" type="video/mp4" />
+   </video>
+</div>
+<br>
 Additionally, I've tinkered around with a horizontal+ implementation for camera components, a separate field of view slider for the characters first person view model and forward rendering via a vertex shader, such that the first person view models are always rendered on top of everything, to prevent them from clipping inside of walls.
+
+<div class="myvideo">
+   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+       <source src="{{ site.baseurl }}/videos/Vadmidin.github.io_14.mp4" type="video/mp4" />
+   </video>
+</div>
+<br>
+I have also implemented a Horizontal+ aspect ratio for camera components, to allow for ultra wide monitor support. As you can see changing the viewport size always adjusts the scene in a way that we will never gain or lose any vertical information, but will in turn expand our viewing range horizontally instead. This is the same system that Call of Duty®: Modern Warfare (2019) uses.
 
 Not much more to say about this project. By now I feel like there are better ways to implement animation blending and state management systems as of Unreal Engine 5 using the new control rig with full body IK.
