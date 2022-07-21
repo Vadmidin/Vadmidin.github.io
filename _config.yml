@@ -20,7 +20,7 @@ skin: "/assets/css/skins/dark.css"
 
 locale: en-US
 title: "Vadmidin"
-description: "Unreal Engine generalist"
+description: "Unreal Engine programmer"
 baseurl: ""
 url: "https://vadmidin.github.io"
 logo: "/images/vadmidin-site-logo.png" # "/images/so-simple-site-logo.png"
