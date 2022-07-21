@@ -135,9 +135,9 @@ author:
     # - title: Resume
     #   url: https://github.com/Vadmidin/Resume/raw/main/Vadmidin%20-%20Resume.pdf
     #   icon: far fa-address-card
-    - title: ISTQB SCR
-      url: http://scr.istqb.org/?name=Admidins&number=&orderBy=relevancy&orderDirection=&dateStart=&dateEnd=&expiryStart=&expiryEnd=&certificationBody=&examProvider=&certificationLevel=&country=
-      icon: fas fa-certificate
+    # - title: ISTQB SCR
+    #   url: http://scr.istqb.org/?name=Admidins&number=&orderBy=relevancy&orderDirection=&dateStart=&dateEnd=&expiryStart=&expiryEnd=&certificationBody=&examProvider=&certificationLevel=&country=
+    #   icon: fas fa-certificate
     - title: GitHub
       url: https://github.com/vadmidin
       icon: fab fa-github-square
@@ -153,9 +153,9 @@ footer_links:
   # - title: Resume
   #   url: https://github.com/Vadmidin/Resume/raw/main/Vadmidin%20-%20Resume.pdf
   #   icon: far fa-address-card
-  - title: ISTQB SCR
-    url: http://scr.istqb.org/?name=Admidins&number=&orderBy=relevancy&orderDirection=&dateStart=&dateEnd=&expiryStart=&expiryEnd=&certificationBody=&examProvider=&certificationLevel=&country=
-    icon: fas fa-certificate
+  # - title: ISTQB SCR
+  #   url: http://scr.istqb.org/?name=Admidins&number=&orderBy=relevancy&orderDirection=&dateStart=&dateEnd=&expiryStart=&expiryEnd=&certificationBody=&examProvider=&certificationLevel=&country=
+  #   icon: fas fa-certificate
   - title: GitHub
     url: https://github.com/vadmidin
     icon: fab fa-github-square
